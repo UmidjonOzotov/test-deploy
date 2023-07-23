@@ -1,0 +1,23 @@
+div{
+    background-color: aqua;
+    height: 710px;
+}
+.katak img{
+    width: 50px;
+    margin-top: 60px;
+}
+.katak{
+    float: left;
+    border: 1px solid;
+    width: 100px;
+   height: 150px;  
+   text-align: center;
+   background-color: white;
+   margin-left: 90px;
+   padding: 75px;
+   margin-top: 20px;
+   
+}
+div h3{
+    text-align: center;
+}
